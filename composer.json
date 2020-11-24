@@ -1,0 +1,13 @@
+{
+    "name": "axelraboit/twigviews",
+    "description": "Exercice sur les vues twig",
+    "authors": [
+        {
+            "name": "AxelRaboit",
+            "email": "axel.raboit@gmail.com"
+        }
+    ],
+    "require": {
+        "twig/twig": "^3.0"
+    }
+}
